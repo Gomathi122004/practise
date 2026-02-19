@@ -18,5 +18,9 @@ return(
 )
 }
 
-export const compomemt1
+export const compomemt1 = () =>{
+    return(
+        <>Created home</>
+    )
+}
 
